@@ -1,4 +1,5 @@
 let a = function() {
+	console.log('HELLO WORLD 2!');
 	console.log('HELLO WORLD 1!');
 }
 
