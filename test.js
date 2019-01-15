@@ -7,3 +7,5 @@ a();
 console.log('something');
 
 console.log('fixed the production bug');
+
+console.log('more changes that need to be merged');
