@@ -5,3 +5,5 @@ let a = function() {
 a();
 
 console.log('something');
+
+console.log('fixed the production bug');
