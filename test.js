@@ -3,3 +3,5 @@ let a = function() {
 }
 
 a();
+
+console.log('some text');
